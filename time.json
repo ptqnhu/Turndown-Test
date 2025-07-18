@@ -1,0 +1,19 @@
+{
+  "item": {
+    "type": "Array",
+    "value": [
+      {
+        "value": 42,
+        "text": "Max Days"
+      },
+      {
+        "value": 2,
+        "text": "Avg Days"
+      },
+      {
+        "value": 0,
+        "text": "Min Days"
+      }
+    ]
+  }
+}
